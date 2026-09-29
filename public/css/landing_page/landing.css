@@ -1,0 +1,24 @@
+.welcome-card {
+    width: 400px;
+    border: none;
+    border-radius: 15px;
+}
+
+.welcome-title {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.welcome-text {
+    color: #6c757d;
+}
+
+.go-btn {
+    min-width: 130px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.go-btn:hover {
+    transform: translateY(-2px);
+}
